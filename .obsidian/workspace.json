@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09384cd287b45fec",
+        "id": "23be57d7053224fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d7743724b41e216f",
+            "id": "6611ab95718559e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advanced Software Engineering/Chapter 7.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,15 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "44bee2c4b7e1b565",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced Software Engineering/Chapter 7.md",
+                "file": "Data Communications/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter 2"
             }
           },
           {
@@ -110,10 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Advanced Software Engineering/Chapter 7.md",
+                "file": "Data Communications/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter 2"
             }
           },
           {
@@ -124,7 +124,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Advanced Software Engineering/Chapter 7.md"
-              }
+                "file": "Data Communications/Chapter 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter 2"
             }
           },
           {
@@ -142,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -164,36 +170,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7743724b41e216f",
+  "active": "6611ab95718559e2",
   "lastOpenFiles": [
+    "Game Design and Programming/The Rivision.md",
+    "Data Communications/Chapter 2.md",
+    "Data Communications/Chapter 1.md",
+    "Advanced Software Engineering/Revise/Chapter 22.md",
+    "Advanced Software Engineering/Revise/Chapter 23.md",
+    "Advanced Software Engineering/Revise/Chapter 9.md",
+    "Advanced Software Engineering/Revise/Chapter 8.md",
+    "Advanced Software Engineering/Revise/Chapter 7.md",
+    "Advanced Software Engineering/Revise/Chapter 6.md",
     "Advanced Software Engineering/Chapter 6.md",
-    "Advanced Software Engineering/Chapter 7.md",
-    "Human-Computer Interaction/Chapter 3.md",
-    "README.md",
-    "Computer Architecture/Chapter 3.md",
-    "Computer Architecture/Chapter 2.md",
-    "Computer Architecture/Chapter 1.md",
-    "Computer Architecture/Assignment3.md",
+    "Statistics/2- Introduction to Probability.md",
+    "Game Design and Programming",
+    "Statistics/1- Introduction to Statistics.md",
     "Algorithms/Review.md",
+    "Computer Graphics/Lecture 1.md",
+    "Computer Graphics/Lecture 6.md",
+    "Computer Graphics/Lecture 5.md",
     "Computer Graphics/Lecture 4.md",
     "Computer Graphics/Lecture 3.md",
-    "Computer Graphics/Lecture 1.md",
-    "Computer Graphics/Lecture 5.md",
-    "Computer Graphics/Lecture 6.md",
     "Computer Graphics/Lecture 2.md",
-    "Data Structures/Terminologies.md",
-    "Data Structures/Stack & Queue.md",
-    "Data Structures/Pasted image 20221003102932.png",
-    "Data Structures/Tree.md",
-    "Data Structures/Priority Queues - Heaps.md",
     "Data Structures/List & Linked List.md",
-    "image/H- Homework2-1673988828997.jpeg",
-    "Introduction to OS/Module 13.md",
-    "Introduction to OS/Module 12.md",
     "Introduction to OS/Module 11.md",
+    "Introduction to OS/Module 12.md",
+    "Introduction to OS/Assignment 2.md",
+    "Introduction to OS/Module 13.md",
     "Introduction to OS/Module 7 to Module 10.md",
     "Introduction to OS/Linux Introductory.md",
-    "Introduction to OS/Assignment 2.md",
+    "Data Structures/Pasted image 20221003102932.png",
+    "Advanced Software Engineering/Revise",
+    "Data Communications",
+    "image/H- Homework2-1673988828997.jpeg",
     "image/Chapter 5-1686531754163.jpeg",
     "image/Chapter 2-1684577165537.jpeg",
     "image/Chapter 2-1684569976607.jpeg",
@@ -209,7 +218,6 @@
     "Programming Paradigms",
     "Computer Graphics",
     "Software Engineering",
-    "Computer Architecture",
     "Untitled.canvas"
   ]
 }
