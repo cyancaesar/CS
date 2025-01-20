@@ -14,14 +14,10 @@ Knowledge units are categorized to:
 
 ## Essential  Units
 
-Two (2) units:
-
 - GKU 0.1 - Linear Algebra
 - GKU 0.2 - Statistics and Probability
 
-## Core Units
-
-**Nine (9) units**:
+## Core Units 
 
 - GKU 1 - Algorithms, Computability, and Complexity
 - GKU 2 - Architecture and Organization
